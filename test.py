@@ -1,7 +1,7 @@
 
 def msg():
     return """
-    Caray, creo todos son tontos menos yo.
+    Caray, creo que todos son tontos menos yo.
     """
 
 def main():
